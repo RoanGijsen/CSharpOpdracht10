@@ -1,0 +1,16 @@
+C:\Users\roang\source\repos\CSharpOpdracht10\CSharpOpdracht10\bin\Debug\net5.0\CSharpOpdracht10.exe
+C:\Users\roang\source\repos\CSharpOpdracht10\CSharpOpdracht10\bin\Debug\net5.0\CSharpOpdracht10.deps.json
+C:\Users\roang\source\repos\CSharpOpdracht10\CSharpOpdracht10\bin\Debug\net5.0\CSharpOpdracht10.runtimeconfig.json
+C:\Users\roang\source\repos\CSharpOpdracht10\CSharpOpdracht10\bin\Debug\net5.0\CSharpOpdracht10.runtimeconfig.dev.json
+C:\Users\roang\source\repos\CSharpOpdracht10\CSharpOpdracht10\bin\Debug\net5.0\CSharpOpdracht10.dll
+C:\Users\roang\source\repos\CSharpOpdracht10\CSharpOpdracht10\bin\Debug\net5.0\ref\CSharpOpdracht10.dll
+C:\Users\roang\source\repos\CSharpOpdracht10\CSharpOpdracht10\bin\Debug\net5.0\CSharpOpdracht10.pdb
+C:\Users\roang\source\repos\CSharpOpdracht10\CSharpOpdracht10\obj\Debug\net5.0\CSharpOpdracht10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roang\source\repos\CSharpOpdracht10\CSharpOpdracht10\obj\Debug\net5.0\CSharpOpdracht10.AssemblyInfoInputs.cache
+C:\Users\roang\source\repos\CSharpOpdracht10\CSharpOpdracht10\obj\Debug\net5.0\CSharpOpdracht10.AssemblyInfo.cs
+C:\Users\roang\source\repos\CSharpOpdracht10\CSharpOpdracht10\obj\Debug\net5.0\CSharpOpdracht10.csproj.CoreCompileInputs.cache
+C:\Users\roang\source\repos\CSharpOpdracht10\CSharpOpdracht10\obj\Debug\net5.0\CSharpOpdracht10.dll
+C:\Users\roang\source\repos\CSharpOpdracht10\CSharpOpdracht10\obj\Debug\net5.0\ref\CSharpOpdracht10.dll
+C:\Users\roang\source\repos\CSharpOpdracht10\CSharpOpdracht10\obj\Debug\net5.0\CSharpOpdracht10.pdb
+C:\Users\roang\source\repos\CSharpOpdracht10\CSharpOpdracht10\obj\Debug\net5.0\CSharpOpdracht10.genruntimeconfig.cache
+C:\Users\roang\source\repos\CSharpOpdracht10\CSharpOpdracht10\obj\Debug\net5.0\CSharpOpdracht10.csprojAssemblyReference.cache
